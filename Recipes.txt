@@ -2,3 +2,5 @@ welcome to my github world
 the internet is very slow today, not sure if I need to reboot my mac or not.
 after reboot, it is better.
 it might because I have mysql running at backgroup.
+
+today for lunch, I want to try pizza.
